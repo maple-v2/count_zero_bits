@@ -1,0 +1,2 @@
+please enter a decimal number:  You enterd the number  23 
+The total zeros in the binary for number 23 is 28 .

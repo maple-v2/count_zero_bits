@@ -1,0 +1,2 @@
+please enter a decimal number:  You enterd the number  0 
+The total zeros in the binary for number 0 is 32 .
