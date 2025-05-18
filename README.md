@@ -12,3 +12,4 @@ The program reads an unsigned decimal number from the user, converts it to binar
 1. Compile the program using a C compiler, for example:
    ```bash
    gcc -o count_zero_bits main.c
+   ./count_zero_bits
