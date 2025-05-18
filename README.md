@@ -22,7 +22,7 @@ After compiling, you can run the program using:
 
 You can download the executable file from the following link:
 
-[Download count_zero_bits.exe](link_to_executable_file)
+count_zero_bits.exe
 
 ## Usage
 
