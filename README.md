@@ -22,7 +22,7 @@ After compiling, you can run the program using:
 
 You can download the executable file from the following link:
 
-[count_zero_bits.exe](https://github.com/maple-v2/count_zero_bits/blob/db8e0ca17baa04205a22d558cba7e8d0a724ba21/count_zero_bits.exe)
+[Download Windows .exe](https://github.com/maple-v2/count_zero_bits/raw/main/count_zero_bits.exe)
 
 ## Usage
 
