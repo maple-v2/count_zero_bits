@@ -14,7 +14,9 @@ The program reads an unsigned decimal number from the user, converts it to binar
    gcc -o count_zero_bits main.c
    ./count_zero_bits
 ```bash
-or ## Download
+
+2.
+ ## Download
 
 For Windows users, you can download and run the program directly:
 
