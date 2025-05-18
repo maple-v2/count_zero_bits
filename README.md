@@ -1,28 +1,33 @@
-# count_zero_bits
-# Count Zero Bits in Binary Representation
+# Count Zero Bits
 
-This is a simple C program that counts the number of zero bits in the binary representation of a given decimal number.
+This C program counts the number of zeros in the binary representation of a given decimal number.
 
-## Description
+## How to Compile
 
-The program reads an unsigned decimal number from the user, converts it to binary internally, and counts how many bits are zero in its binary form. It then prints the count to the user.
+To compile the program, use the following command:
 
-## How to Use
+```
+gcc count_zero_bits.c -o count_zero_bits
+```
 
-1. Compile the program using a C compiler, for example:
-   ```bash
-   gcc -o count_zero_bits main.c
-   ./count_zero_bits
-```bash
+## How to Run
 
-2.
- ## Download
+After compiling, you can run the program using:
 
-For Windows users, you can download and run the program directly:
+```
+./count_zero_bits
+```
 
-- [Download count_zero_bits.exe](https://github.com/maple-v2/count_zero_bits/blob/main/count_zero_bits.exe)
+## Executable File
 
-Just download the file and double-click to run, or use the command line:
+You can download the executable file from the following link:
 
-```bash
-count_zero_bits.exe
+[Download count_zero_bits.exe](link_to_executable_file)
+
+## Usage
+
+When you run the program, it will prompt you to enter a decimal number. After entering the number, it will display the total count of zeros in its binary representation.
+
+## License
+
+This project is licensed under the MIT License.
