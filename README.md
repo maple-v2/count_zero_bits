@@ -13,3 +13,14 @@ The program reads an unsigned decimal number from the user, converts it to binar
    ```bash
    gcc -o count_zero_bits main.c
    ./count_zero_bits
+```bash
+or ## Download
+
+For Windows users, you can download and run the program directly:
+
+- [Download count_zero_bits.exe](https://github.com/maple-v2/count_zero_bits/blob/main/count_zero_bits.exe)
+
+Just download the file and double-click to run, or use the command line:
+
+```bash
+count_zero_bits.exe
